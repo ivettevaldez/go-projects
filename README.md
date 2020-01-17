@@ -1,2 +1,2 @@
-# GoProjects
-All related to Go projects.
+# Go Projects
+All related to Go (language).
